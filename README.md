@@ -1,4 +1,4 @@
-# hp-quadcopter - iteration 1 
+# hp-quadcopter 
 
 Ground up engineering project designing and building a high peformance quadcopter. Every component of airframe is designed from scratch in Fusion360 and fabricated in a p2s 3d printer, final iteration will be a carbon fiber filled pla filament. The project is structured in two iterations - this repository documents Iteration 1 (6S) which establishes a peformance baseline. Targeting 160-175 km/h, with Iteration 2 (8S) targeting 200+ km/h.
 
