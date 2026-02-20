@@ -26,7 +26,7 @@ Ground up engineering project designing and building a high peformance quadcopte
 - '/docs' - Document requirements, test procedures, test reports
 - '/cad' - Fusion 360 design files
 - '/analysis' - Flight data analysis scripts
-- '/aero' - SimScale results, tests
+- '/cfd' - SimScale results, tests
 
 ## Project Status 
 Phase 1 - Requirements complete, beginning frame design 
