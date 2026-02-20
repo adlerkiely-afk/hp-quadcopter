@@ -10,11 +10,11 @@ Ground up engineering project designing and building a high peformance quadcopte
 -Document full process to professional standard.
 
 ## Specs - Iteration 1 
--Frame: Custom Design, carbon fiber filled filament 
--Motors: AOS Supernova 2207 1980 KV x4
--Power System: 6S LiPo, 1000-1300mAh
--Flight Controller: SpeedyBee F7 V3
--Target Speed: 160-175 km/h calm air 
+-**Frame**: Custom Design, carbon fiber filled filament 
+-**Motors**: AOS Supernova 2207 1980 KV x4
+-**Power System**: 6S LiPo, 1000-1300mAh
+-**Flight Controller**: SpeedyBee F7 V3
+-**Target Speed**: 160-175 km/h calm air 
 
 ## Tools Used
 -**Fusion 360**: Airframe CAD Design
