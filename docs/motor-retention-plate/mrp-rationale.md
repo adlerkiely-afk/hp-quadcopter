@@ -7,8 +7,7 @@
 |---|---|---|
 | Outer Diameter | 30mm | 2.4mm clearance over 27.6 motor OD |
 | Thickness | 4mm  | M3 thread |
-| Center hole  | 4.5mm | 0.5mm clearance over 4mm motor shaft  |
-| Mounting holes | 3.2mm x4 | 0.2mm m3 clearance, 16x16mm pattern |
+| Mounting holes | 3.4mm x4 | 0.4mm m3 clearance, 11x11mm pattern |
 
 #### Notes 
 Circular geometry chosen to match "AOS Supernova 2207-1980kV Brushless Motor" profile. 0.5mm fillets on mounting hole edges. M3x6mm grade 12.9 screws.
@@ -20,3 +19,4 @@ PLA Tough+, .1mm layers, 15% infill test, flight in PLA-CF at 40%
 | Version | Date | Change |
 |---|---|---|
 | v1 | 2026-02-19 | Test Print |
+| v2 | 2026-03-01 | Fixed mounting pattern, removed center hole, adjusted diameter |
