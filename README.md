@@ -29,4 +29,5 @@ Ground up engineering project designing and building a high peformance quadcopte
 - '/cfd' - SimScale results, tests
 
 ## Project Status 
-Phase 1 - Requirements complete, beginning frame design 
+Phase 2 - Print and Test Frame
+
